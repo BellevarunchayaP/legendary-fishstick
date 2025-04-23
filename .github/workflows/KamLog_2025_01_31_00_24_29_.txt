@@ -1,0 +1,179 @@
+---------------------------------------------------------------
+Brand: samsung
+Manufacturer: samsung
+Model: SM-F731B
+API Version: 34
+Application Version Name: 1.7.00.9
+Application Version Code: 170009100
+BUILD TYPE : release
+Build CL : d5eec29
+Device Version Code: samsung/b5qxxx/b5q:14/UP1A.231005.007/F731BXXS4DXLF:user/release-keys
+Organization ID: defaultOrgId
+Group ID: defaultGrpId
+Device name: Varunchaya
+Device ID: 5e599debbaac046e
+Device IP: 10.156.254.105
+User Reported Msg: >>>>>>>  Kam_Feedback
+---------------------------------------------------------------
+2025-01-31 00:23:35.840 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]OnBoardingLogger | cleanupLogs
+
+2025-01-31 00:23:35.843 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamController | ----  onCreate: pre init ----th_TH
+
+2025-01-31 00:23:35.843 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamController | KAM state is changing from:  [L3.d@290b5f9] to: [L3.c@6a5893e]
+
+2025-01-31 00:23:35.843 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamAppState | [170009100] InitState - enter
+
+2025-01-31 00:23:35.845 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]WeakSingletons | addToWeakSingleton with value: C4.q@78cacec and type class C4.q
+
+2025-01-31 00:23:35.845 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]WeakSingletons | addToWeakSingleton with value: C4.C@bb3babb and type class C4.C
+
+2025-01-31 00:23:35.850 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]PolicyManager | starting background policy refresh in: 0 ms
+
+2025-01-31 00:23:35.850 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]WeakSingletons | addToWeakSingleton with value: C4.x@1594797 and type class C4.x
+
+2025-01-31 00:23:35.856 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]Utils | isSupportSakAttest : key_type = sakv2,gak,sgak,rkp
+
+2025-01-31 00:23:35.856 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]ServerWork | getChallenge mChallenge:KAM::2025-01-31 00:23:35::76331394851061895344269351685027405735-5879496172342216928-1753202862939948189
+
+2025-01-31 00:23:35.875 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]PolicyManager | AUTO_DELETE_UNUSED_PROFILE_AFTER(String): = null
+
+2025-01-31 00:23:35.880 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]PolicyManager | PRE -> {doKAMAuthToUnlockDevice=false, doKAMLightweightLauncherReverifyAfter=0, doKAMAzureADClientID=, doKAMCleanupOnLoginApps=[com.microsoft.appmanager, com.microsoft.office.excel, com.microsoft.teams, com.microsoft.office.officehubrow, com.microsoft.office.onenote, com.microsoft.office.powerpoint, com.microsoft.office, com.microsoft.office.word, com.microsoft.office.outlook, com.microsoft.sharepoint, com.microsoft.skydrive], doKAMSyncOrgID=, doKAMSyncGroupID=, doKAMHomeScreenTitle=, doKAMSyncDevicesBy=Group ID, doKAMCleanupExcludedApps=[], doKAMBiometricNotice=, doKAMHomeScreenDescription=, doKAMCleanupOnLogin=false, doKAMMainLoginApp=com.airwatch.lockdown.launcher, doKAMSyncSendUDPPort=49158, schemaVersion=2, doKAMCleanupOnLogout=false, doKAMShowDeviceSerialNumber=false, doKAMSyncTCPPort=7788, doKAMAzureADTenantID=, doKAMAutoDeleteUnusedProfileAfter=3, doKAMMainLoginMethod=PIN+Face, doKAMSyncReceiveUDPPort=49159, doKAMAutoLogoutOnCharge=false, doKAMAutoLogoutOnScreenOffAfter=0, doKAMSyncEnable=true, doKAMMainLoginPINLength=4}
+
+2025-01-31 00:23:35.881 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]PolicyKey | schema version: 2 - expecting: 2
+
+2025-01-31 00:23:35.882 GMT+07:00 | 29907 | 29947 | E | [KAM-d5eec29]MDMPolicy | License key is not set
+
+2025-01-31 00:23:35.882 GMT+07:00 | 29907 | 29947 | E | [KAM-d5eec29]PolicyKey | Key is null - doKAMBiometricNotice
+
+2025-01-31 00:23:35.882 GMT+07:00 | 29907 | 29947 | E | [KAM-d5eec29]PolicyKey | Key is null - doKAMLightweightLauncherAdminPIN
+
+2025-01-31 00:23:35.882 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]MandatoryKeyManager | validationCheckCB completed
+
+2025-01-31 00:23:35.882 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]MandatoryKeyManager | isValid - key: doKAMLicenseKey is not valid
+
+2025-01-31 00:23:35.882 GMT+07:00 | 29907 | 29947 | E | [KAM-d5eec29]ReportManager | No active admins found
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | sending feedback notification
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMAuthToUnlockDevice', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMLightweightLauncherReverifyAfter', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMAzureADClientID', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMCleanupOnLoginApps', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncOrgID', severity=2, msg='Key is not set', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncGroupID', severity=2, msg='Key is not set', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMHomeScreenTitle', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncDevicesBy', severity=2, msg='Group ID is not set', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMCleanupExcludedApps', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMBiometricNotice', severity=2, msg='Key is not set', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMHomeScreenDescription', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMCleanupOnLogin', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.883 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncGroupKey', severity=2, msg='Key is not set', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMMainLoginApp', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncSendUDPPort', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMProfileName', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='schemaVersion', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMLicenseKey', severity=2, msg='License key is not set', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMCleanupOnLogout', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMShowDeviceSerialNumber', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncTCPPort', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMAzureADTenantID', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMAutoDeleteUnusedProfileAfter', severity=1, msg='Setting user data retention period to 3 months', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMMainLoginMethod', severity=2, msg='Error: Selecting Face authentication requires accepting Biometric T&C.', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncReceiveUDPPort', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMAutoLogoutOnCharge', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.884 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMAutoLogoutOnScreenOffAfter', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.885 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMSyncEnable', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:35.885 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMLightweightLauncherAdminPIN', severity=2, msg='Launcher admin pin is not set', data='null'
+
+2025-01-31 00:23:35.885 GMT+07:00 | 29907 | 29947 | I | [KAM-d5eec29]ReportManager | prepareReport: key='doKAMMainLoginPINLength', severity=1, msg='null', data='null'
+
+2025-01-31 00:23:36.093 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]Utils | isSupportProcaForKeystore soc_model = SM8550
+
+2025-01-31 00:23:36.094 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]Utils | isSupportProcaForKeystore chipname  = 
+
+2025-01-31 00:23:36.094 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]Utils | isSupportProcaForKeystore hardware = qcom
+
+2025-01-31 00:23:36.095 GMT+07:00 | 29907 | 29946 | I | [KAM-d5eec29]SamsungAttestationKeyPresenter | Performing deleteAttestKey in BG thread: DefaultDispatcher-worker-3
+
+2025-01-31 00:23:36.108 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamController | ----  onCreate: ---- post init state: L3.c@6a5893e
+
+2025-01-31 00:23:36.155 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]SplashScreenActivity | onCreate: L3.c@6a5893e
+
+2025-01-31 00:23:36.388 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamController | onPolicyChanged
+
+2025-01-31 00:23:36.388 GMT+07:00 | 29907 | 29907 | E | [KAM-d5eec29]KamController | License key is not set. Set state as ERROR
+
+2025-01-31 00:23:36.389 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamController | KAM state is changing from:  [L3.c@6a5893e] to: [L3.b@9ffaf20]
+
+2025-01-31 00:23:36.391 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamAppState | [170009100] ErrorState - LICENSE_KEY_MISSING
+
+2025-01-31 00:23:36.392 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | setAccessibility: true
+
+2025-01-31 00:23:36.392 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | setAccessibilityServiceState : true
+
+2025-01-31 00:23:36.393 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | setAccessibilityServiceState :  Enabling , old state = false
+
+2025-01-31 00:23:36.403 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]SplashScreenActivity | onStateChanged: L3.b@9ffaf20
+
+2025-01-31 00:23:36.445 GMT+07:00 | 29907 | 29961 | I | [KAM-d5eec29]ReportManager | KeyedAppStatesCallback - onResult 0
+
+2025-01-31 00:23:36.449 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamAccessibilityService | onCreate()
+
+2025-01-31 00:23:36.450 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamAccessibilityService | onCreate: Waiting for App init to complete.
+
+2025-01-31 00:23:36.471 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]MainActivity | onCreate
+
+2025-01-31 00:23:36.506 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | isKioskMode:  false  resolvedInfoList: 3
+
+2025-01-31 00:23:36.506 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | permitted:  com.google.android.gm
+
+2025-01-31 00:23:36.506 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | permitted:  com.microsoft.office.outlook
+
+2025-01-31 00:23:36.506 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | permitted:  com.paypal.android.p2pmobile
+
+2025-01-31 00:23:36.506 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | Installed Mail Client count: 3
+
+2025-01-31 00:23:36.506 GMT+07:00 | 29907 | 29907 | E | [KAM-d5eec29]MainActivity | checkPermissions: android.permission.CAMERA
+
+2025-01-31 00:23:36.507 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]MainActivity | Permission missing, Ask user again
+
+2025-01-31 00:23:36.556 GMT+07:00 | 29907 | 29907 | E | [KAM-d5eec29]HashUtil | Data is empty
+
+2025-01-31 00:24:29.143 GMT+07:00 | 29907 | 29907 | E | [KAM-d5eec29]PolicyManager | orgId is invalid
+
+2025-01-31 00:24:29.144 GMT+07:00 | 29907 | 29907 | E | [KAM-d5eec29]PolicyManager | groupId is invalid
+
+2025-01-31 00:24:29.150 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]KamUtils | Found active IP address: 10.156.254.105
+
+2025-01-31 00:24:29.150 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]BufferedFileLogger | flush start
+
+2025-01-31 00:24:29.150 GMT+07:00 | 29907 | 29907 | I | [KAM-d5eec29]BufferedFileLogger | cleanupLogs
+
